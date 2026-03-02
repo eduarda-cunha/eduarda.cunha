@@ -5,15 +5,27 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá!</h1></summary>
 </div>
+
+  </div>
     
-<p>
-align="center">🌅 Me chamo Eduarda Karoliny Alves, tenho 22 anos e sou natural de Uberlândia-MG.
-align="center">🍃 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera, também faço cursos na área de Analise de Dados.
-</p>
+<div align="center">🌅 My name is Eduarda Karoliny Alves, I am 22 years old and I am originally from Uberlândia, Minas Gerais, Brazil.🌇
+<div align="center">🍃 I am currently pursuing a degree in Systems Analysis and Development at Anhanguera University.🍂
+<div align="center">In addition to my academic studies, I continuously invest in professional development by taking courses in the field of Data Analysis.
+</div>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I began my journey in the technology field about a year ago, after completing my training in Security and Video Monitoring. During that time, I found myself asking a question that completely changed my professional path: “How is a system like this built?”
+
+  - ⚡That curiosity sparked my interest in Systems Analysis and Development, leading me to study programming, computational logic, and system modeling. Since then, I have been committed to continuous learning, developing academic and personal projects, with a strong focus on data analysis and building efficient solutions.
+
+</details>
 
 ###
 
-<div align="left">
+<div align="center"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -23,12 +35,15 @@ align="center">🍃 Atualmente, estou cursando Análise e Desenvolvimento de Sis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+
 </div>
 
-###
+
+<h3 align="center">🎧 Currently listening to:</h3>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/playlist/1BybsQUG1Xvcu7nJdRcVKg?si=34Ppdf17Qsamgv7PHk07Xw">
+    <img src="https://img.shields.io/badge/🎵%20My%20Spotify%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify Playlist">
+  </a>
 </div>
 
-###
