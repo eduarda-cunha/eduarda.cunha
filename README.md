@@ -1,4 +1,4 @@
-## Eduarda
+## 👩🏻‍💻 Eduarda Cunha
 
 <!--título-->
 <div id="user-content-toc">
@@ -31,6 +31,8 @@
 
 ###
 
+### 🤖 Linguagens e Tecnologias
+
 <div align="center"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -44,6 +46,7 @@
 
 </div>
 
+###
 
 <h3 align="center">🎧 Currently listening to:</h3>
 
@@ -51,5 +54,11 @@
   <a href="https://open.spotify.com/playlist/1BybsQUG1Xvcu7nJdRcVKg?si=34Ppdf17Qsamgv7PHk07Xw">
     <img src="https://img.shields.io/badge/🎵%20My%20Spotify%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify Playlist">
   </a>
+</div>
+
+### 🚀 1️GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduarda-cunha&theme=tokyonight"/>
 </div>
 
