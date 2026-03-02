@@ -1,8 +1,15 @@
 ## Eduarda
 
-Me chamo Eduarda Karoliny Alves, tenho 22 anos e sou natural de Uberlândia-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. 
-
-<p align="center">Olá!<br>Me chamo Eduarda Karoliny Alves, tenho 22 anos e sou natural de Uberlândia-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera, também faço cursos na área de Analise de Dados.</p>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá!</h1></summary>
+</div>
+    
+<p>
+align="center">🌅 Me chamo Eduarda Karoliny Alves, tenho 22 anos e sou natural de Uberlândia-MG.
+align="center">🍃 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera, também faço cursos na área de Analise de Dados.
+</p>
 
 ###
 
