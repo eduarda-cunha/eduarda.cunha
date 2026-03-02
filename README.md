@@ -3,7 +3,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá!</h1></summary>
+    <summary><h1 style="display: inline-block">Hello and welcome!, </h1></summary>
 </div>
 
   </div>
@@ -48,12 +48,6 @@
 
 ###
 
-<h3 align="center">🎧 Currently listening to:</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/playlist/1BybsQUG1Xvcu7nJdRcVKg?si=34Ppdf17Qsamgv7PHk07Xw">
-    <img src="https://img.shields.io/badge/🎵%20My%20Spotify%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify Playlist">
-  </a>
 </div>
 
 ### 🚀 1️GitHub Stats
