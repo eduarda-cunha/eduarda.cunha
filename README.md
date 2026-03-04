@@ -61,6 +61,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduarda-cunha&theme=tokyonight"/>
 </div>
 
-git add .
-git commit -m "Atualização diária"
-git push
